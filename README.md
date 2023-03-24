@@ -1,7 +1,20 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300">
-    <h1>Hi, I’m Irene!</h1>
-    <h3>Front-End Web Developer from Mexico, I am passionate about programming in Python and developing websites. I hope my repositories are useful to you.</h3>
+    <h1>
+        Hi 
+        <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32">
+        </picture>
+        , I’m Irene!
+    </h1>
+    <h3>
+        Front-End Web Developer from Mexico, I am passionate about programming in Python and developing websites. I hope my repositories are useful to you.
+        <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="25" height="25">
+        </picture>
+    </h3>
 </div>
 
 <div id="badges" align="center">
@@ -13,7 +26,7 @@
     </a>
 </div>
 
-
+##
 
 ### About me:
 
