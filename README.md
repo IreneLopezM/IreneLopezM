@@ -35,3 +35,26 @@
 - 📫 How to reach me: elizabethlmares@gmail.com
 - 😄 Pronouns: She/her
 - 🌐 Website: [Irene López](https://irenelopezm.github.io/)
+
+<br>
+
+<div align="left">
+    <h3>Languages and tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C/C++" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle 11g" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" alt="Tomcat" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60">
+    </div>
+</div>
