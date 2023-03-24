@@ -18,10 +18,10 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/irene-lopez-mares/">
+    <a href="https://www.linkedin.com/in/irene-lopez-mares/" target="_blank">
         <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%23b6ffff&label=linkedin&logo=linkedin&logoColor=%23b6ffff&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Firene-lopez-mares%2F">
     </a>
-    <a href="https://www.facebook.com/ireneelizabeth.lmares">
+    <a href="https://www.facebook.com/ireneelizabeth.lmares" target="_blank">
         <img alt="Facebook URL" src="https://img.shields.io/twitter/url?color=%2340cfff&label=facebook&logo=facebook&logoColor=%2340cfff&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fireneelizabeth.lmares">
     </a>
 </div>
