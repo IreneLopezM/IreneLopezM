@@ -1,16 +1,19 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200">
+    <h1>Hi, I’m Irene!</h1>
+    <h3>Front-End Web Developer from Mexico, I am passionate about programming in Python and developing websites. I hope my repositories are useful to you.</h3>
+</div>
 
-<!--
-**IreneLopezM/IreneLopezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/irene-lopez-mares/">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F">
+    </a>
+</div>
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning JavaScript and bootstrap.
+- 💬 Ask me about Python, HTML and CSS.
+- 📫 How to reach me: elizabethlmares@gmail.com
+- 😄 Pronouns: She/her
+- 🌐 Website: [Irene López](https://irenelopezm.github.io/)
