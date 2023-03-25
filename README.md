@@ -28,7 +28,15 @@
 
 ##
 
-### About me:
+<div align="left">
+    <h3>
+        <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32">
+        </picture>
+        About me:
+    </h3>
+</div>
 
 - 🌱 I’m currently learning JavaScript and bootstrap.
 - 💬 Ask me about Python, HTML and CSS.
@@ -39,7 +47,14 @@
 <br>
 
 <div align="left">
-    <h3>Languages and tools:</h3>
+    <h3>
+        <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
+        </picture>
+        Languages and tools:
+    </h3>
+    <br>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C/C++" width="60" height="60">
